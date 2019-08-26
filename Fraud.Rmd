@@ -16,8 +16,8 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE,
 library(readxl)
 library(knitr)
 library(lubridate)
-library(dplyr)
 library(ggplot2)
+library(dplyr)
 ```
 
 ## Part 1: File Description
